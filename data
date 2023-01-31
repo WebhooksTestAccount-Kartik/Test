@@ -1,14 +1,13 @@
-Administer Jira
+Modify collections of issues at once, including these operations:
 
-Create and administer projects, issue types, fields, workflows, and schemes for all projects. Users with this permission can perform most administration tasks, except managing users, importing and exporting data, and editing system email settings.
+Bulk edit
 
-Users with the Administer Jira permission can log in at any time but may be restricted depending on their application access.
+Bulk move
 
-Site admins can grant this permission in user management.
-Administer Jira
+Bulk workflow transition
 
-Create and administer projects, issue types, fields, workflows, and schemes for all projects. Users with this permission can perform most administration tasks, except managing users, importing and exporting data, and editing system email settings.
+Bulk delete
 
-Users with the Administer Jira permission can log in at any time but may be restricted depending on their application access.
+Some bulk changes may be restricted by project-specific permissions.
 
-Site admins can grant this permission in user management.
+Granting permission to make bulk changes may be risky. For example, in a Jira site where anybody can sign up and create issues, a user with this permission and the Add Comments project permission could comment on all accessible issues. It's difficult to undo bulk changes like these.
