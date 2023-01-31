@@ -11,3 +11,6 @@ Bulk delete
 Some bulk changes may be restricted by project-specific permissions.
 
 Granting permission to make bulk changes may be risky. For example, in a Jira site where anybody can sign up and create issues, a user with this permission and the Add Comments project permission could comment on all accessible issues. It's difficult to undo bulk changes like these.
+
+
+https://github.com/WebhooksTestAccount-Kartik/Test.git
