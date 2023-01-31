@@ -1,0 +1,7 @@
+Administer Jira
+
+Create and administer projects, issue types, fields, workflows, and schemes for all projects. Users with this permission can perform most administration tasks, except managing users, importing and exporting data, and editing system email settings.
+
+Users with the Administer Jira permission can log in at any time but may be restricted depending on their application access.
+
+Site admins can grant this permission in user management.
